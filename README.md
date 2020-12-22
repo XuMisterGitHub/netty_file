@@ -208,9 +208,7 @@ public class FileUploadServerHandler extends ChannelInboundHandlerAdapter {
 
 我们可以先运行服务端的`ServerFileTest`测试类,然后运行客户端的 `ClientFileTest`测试类进行
 
-具体代码就不贴上去了,可以在这里进行下载这个案例
-<a href="https://github.com/haoxiaoyong1014/netty-file">netty-file</a>
-&ensp;&ensp;如果对你有帮助还请给个Star哦
+具体代码就不贴上去了,可以在这里进行下载这个案例。
 
 
 
