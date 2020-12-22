@@ -1,14 +1,6 @@
 #### Netty 文件传输
+通过 Netty 传递
 
-在之前的项目中介绍了
-
-<a href="https://github.com/haoxiaoyong1014/springboot-netty">springboot整合 netty做心跳检测</a>
-
-<a href="https://github.com/haoxiaoyong1014/netty-time">springboot 整合netty编写时间服务器</a>
-
-这次通过 Netty 传递文件
-
-此项目地址: &#8194;  https://github.com/haoxiaoyong1014/netty-file 
 
 #### 项目依赖
 ```xml
